@@ -300,7 +300,7 @@
             this.btStart.Name = "btStart";
             this.btStart.Size = new System.Drawing.Size(221, 23);
             this.btStart.TabIndex = 8;
-            this.btStart.Text = "Starten";
+            this.btStart.Text = "Start";
             this.btStart.UseVisualStyleBackColor = true;
             this.btStart.Click += new System.EventHandler(this.btStart_Click);
             // 
